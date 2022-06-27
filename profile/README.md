@@ -17,7 +17,7 @@
 </div>
 <br>
 <div align="left">
-<p>Welcome to the MerakitCode's organization page. This year we plan to build an open source academic system and make it available to schools, colleges or universities in Indonesia.</p>
+<p>Welcome to the MerakitCode's organization page. This year we plan to build an open source education system and make it available to schools, colleges or universities in Indonesia.</p>
 <p>If you have any requests or would like to give us feedback, please feel free to email us.</p>
 </div>
 
