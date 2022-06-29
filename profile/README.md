@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 <h1>MerakitCode</h1>
 <a href="https://www.linkedin.com/company/merakitcode"><img src="https://img.shields.io/badge/-MerakitCode-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/merakitcode/"/></a>
 <a href="mailto:merakitcode@gmail.com"><img src="https://img.shields.io/badge/-merakitcode@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:merakitcode@gmail.com"/></a>
